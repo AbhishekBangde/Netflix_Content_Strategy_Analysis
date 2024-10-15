@@ -1,4 +1,4 @@
-# Netflix Content Strategy Case Study
+# Netflix Content Strategy Business Case
 
 This repository contains an in-depth analysis of Netflix's content library and provides actionable insights for improving its business strategy across different countries. The analysis focuses on identifying trends in the types of shows and movies Netflix produces, understanding its content's global distribution, and recommending ways to enhance Netflix’s content offerings based on data-driven insights.
 
