@@ -25,7 +25,7 @@ The objective of this case study is to generate insights that can help Netflix m
 
 ## Files in this Repository
 - **README.md**: This file provides an overview of the project, business context, and a guide to the repository.
-- **Netflix-Content-Strategy-Business-Case.ipynb**: A Google Colab notebook containing the complete analysis, data preprocessing, visualization, and insights derived from the Netflix dataset.
+- **Netflix Content Strategy Analysis.ipynb**: A Google Colab notebook containing the complete analysis, data preprocessing, visualization, and insights derived from the Netflix dataset.
 
 ## Key Steps and Methodology
 The project involves the following key steps:
