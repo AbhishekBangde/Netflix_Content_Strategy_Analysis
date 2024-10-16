@@ -1,4 +1,4 @@
-# Netflix Content Strategy Business Case
+# Netflix Content Strategy Analysis
 
 This repository contains an in-depth analysis of Netflix's content library and provides actionable insights for improving its business strategy across different countries. The analysis focuses on identifying trends in the types of shows and movies Netflix produces, understanding its content's global distribution, and recommending ways to enhance Netflix’s content offerings based on data-driven insights.
 
@@ -25,7 +25,7 @@ The objective of this case study is to generate insights that can help Netflix m
 
 ## Files in this Repository
 - **README.md**: This file provides an overview of the project, business context, and a guide to the repository.
-- **Netflix_Case_Study.ipynb**: A Google Colab notebook containing the complete analysis, data preprocessing, visualization, and insights derived from the Netflix dataset.
+- **Netflix-Content-Strategy-Business-Case.ipynb**: A Google Colab notebook containing the complete analysis, data preprocessing, visualization, and insights derived from the Netflix dataset.
 
 ## Key Steps and Methodology
 The project involves the following key steps:
